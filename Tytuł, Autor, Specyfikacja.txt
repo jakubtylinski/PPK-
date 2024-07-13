@@ -1,0 +1,3 @@
+Tytuł: Biblioteka wraz z zaimplantowanymi funkcjami do karania z opóźnienie w oddawaniu książek 
+Autor: Jakub Tyliński 
+Specyfikacja: Dotnet 8.0, Angulatr, MsSql 
